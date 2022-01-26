@@ -1,0 +1,16 @@
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.exe
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.deps.json
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.json
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.dev.json
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.dll
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\bin\Debug\net5.0\ref\ExemploPOO.dll
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.pdb
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.AssemblyReference.cache
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.dll
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ref\ExemploPOO.dll
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.pdb
+C:\Users\wholo\Documents\CURSOS\DIO\DecolaTech2\Aula_POO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.genruntimeconfig.cache
